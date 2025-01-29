@@ -1,0 +1,14 @@
+C:\Users\Leonalayja\Desktop\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.exe
+C:\Users\Leonalayja\Desktop\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.deps.json
+C:\Users\Leonalayja\Desktop\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.runtimeconfig.json
+C:\Users\Leonalayja\Desktop\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\Leonalayja\Desktop\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\refint\LibraryManagement.dll
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.genruntimeconfig.cache
+C:\Users\Leonalayja\Desktop\LibraryManagement\obj\Debug\net6.0-windows\ref\LibraryManagement.dll
